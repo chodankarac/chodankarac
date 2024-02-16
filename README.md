@@ -21,6 +21,11 @@
 </p>
 
 <!-- Libraries and Languages -->
+# About me
+
+<p>I'm an enthusiastic and motivated Front-end Developer who loves creating dynamic web applications using advanced technologies like Next.js, React.js, TypeScript, and Redux Toolkit. I enjoy tackling tough challenges and finding smart ways to solve tricky problems while making sure users have the best experience.
+
+Throughout my career in the IT industry, I've been lucky to work on exciting projects. These projects pushed me to improve and learn. I strongly believe in always learning and growing to stay current with the latest technologies.</p>
 # Libraries and Languages
 
 ## Frontend Libraries/Frameworks:
