@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="my background pic.jpeg" alt="Background Picture"/>
+</p>
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Ashish Chodankar</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
