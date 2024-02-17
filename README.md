@@ -34,7 +34,7 @@ Throughout my career in the IT industry, I've been lucky to work on exciting pro
 ## Frontend Libraries/Frameworks:
 
 ### CSS Frameworks:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="icons/bootstrap-4.svg" alt="Bootstrap" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 
