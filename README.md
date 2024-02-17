@@ -34,13 +34,13 @@ Throughout my career in the IT industry, I've been lucky to work on exciting pro
 ## Frontend Libraries/Frameworks:
 
 ### CSS Frameworks:
-<img src="icons/bootstrap-4.svg" alt="Bootstrap" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="icons/material-ui-1.svg" alt="Materialize" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="icons/bootstrap-4.svg" alt="Bootstrap" width="40" height="40"/> 
 
 ### JavaScript Frameworks/Libraries:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="icons/react-2.svg" alt="React.js" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="icons/Nextjs(1).png" alt="Next.js" width="60" height="40"/> &nbsp;&nbsp;&nbsp;
 
 ### State Management:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
@@ -48,17 +48,17 @@ Throughout my career in the IT industry, I've been lucky to work on exciting pro
 ## Languages:
 
 ### Markup:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<img src="icons/html-1.svg" alt="HTML5" width="40" height="40"/>
 
 ### Stylesheet:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<img src="icons/css-3.svg" alt="CSS3" width="40" height="40"/>
 
 ### Programming Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 
 ## Version Control:
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="icons/gitlab.svg" alt="Git" width="40" height="40"/>
 
 <!-- GitHub Stats -->
 ## GitHub Stats
